@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="Temp" type="LIBRARY" format="ROBOT" scope="GLOBAL" namedargs="true" generated="2020-12-08T05:52:40Z" specversion="2" source="C:\Users\99002608\eclipse-workspace\FinalApple\resource\Temp.py" lineno="1">
+<version />
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``Temp``.</doc>
+<kw name="Add" lineno="203">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Avg" lineno="7">
+<arguments>
+<arg>a</arg>
+<arg>b</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Cart" lineno="68">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Coordinates Click" lineno="249">
+<arguments>
+<arg>a</arg>
+<arg>b</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Cross" lineno="20">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Delivery" lineno="113">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Options" lineno="158">
+<arguments>
+</arguments>
+<doc />
+</kw>
+</keywordspec>
